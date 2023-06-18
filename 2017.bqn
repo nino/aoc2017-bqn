@@ -39,4 +39,5 @@ Day2a ← +´(⌈´-⌊´)¨
 •Show Day2a ProcessDay2 day2input
 •Show Day2a ⟨⟨5, 1, 9, 5⟩, ⟨7, 5,3⟩, ⟨2,4,6,8⟩⟩
 
-
+Day2b ← +´({(0=1|𝕩)∧𝕩≠1}⊸/∘⥊÷⌜˜)¨
+•Show Day2b ProcessDay2 day2input
